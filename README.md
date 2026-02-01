@@ -1,4 +1,4 @@
-# Data Validation Script - Instructions
+# Data Validation 
 
 ## Overview
 This script validates data by comparing source and target Excel files. It performs schema validation, row hashing, and generates detailed comparison reports.
@@ -78,3 +78,4 @@ If you encounter issues, check that:
 2. ✓ Input files exist and are in `.xlsx` format
 3. ✓ At least one column has unique values for primary key detection
 4. ✓ The script has write permissions to the `output/` folder
+
